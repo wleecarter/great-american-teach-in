@@ -144,7 +144,7 @@ export default class Presentation extends React.Component {
             </Heading>
           </Slide>
           <Slide transition={["zoom"]} bgColor="primary">
-            <Heading size={1} fit caps lineHeight={1} textColor="white">
+            <Heading size={1} fit caps lineHeight={1} textColor="black">
               Start Now
             </Heading>
             <Appear>
@@ -153,7 +153,7 @@ export default class Presentation extends React.Component {
               </Heading>
             </Appear>
             <Appear>
-              <Heading size={1} fit caps lineHeight={1} textColor="white">
+              <Heading size={1} fit caps lineHeight={1} textColor="black">
                 Ask For Help
               </Heading>
             </Appear>
@@ -166,6 +166,9 @@ export default class Presentation extends React.Component {
           <Slide transition={["zoom"]} bgColor="primary">
             <Heading size={1} fit caps lineHeight={1} textColor="white">
               Thank You
+            </Heading>
+            <Heading size={1} fit lineHeight={1} textColor="white">
+              <Link href="http://bit.ly/gati321">bit.ly/gati321</Link>
             </Heading>
           </Slide>
         </Deck>
