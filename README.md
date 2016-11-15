@@ -1,5 +1,6 @@
 # Great American Teach-In Presentation
-Presented to Mr. Kilmer's 5th-grade class at [Oakstead Elementary](http://oes.pasco.k12.fl.us/oes_web/Home.html/), Land O Lakes, FL.
+Presented to Mrs. Bouffard's 3rd-grade and Mr. Kilmer's 5th-grade class at [Oakstead Elementary](http://oes.pasco.k12.fl
+.us/oes_web/Home.html/), Land O Lakes, FL.
 
 ## Pages We'll Be Using
 - [Start Here](http://codepen.io/wlc3/pen/eBzXKm?editors=1000)
