@@ -124,7 +124,7 @@ export default class Presentation extends React.Component {
           </Slide>
           <Slide transition={["zoom"]} bgColor="black">
             <Heading size={1} fit lineHeight={1} textColor="white">
-              <Link href="bit.ly/gati123">bit.ly/gati123</Link>
+              <Link href="bit.ly/gati123">bit.ly/gati321</Link>
             </Heading>
           </Slide>
           <Slide transition={["zoom"]} bgColor="primary">
