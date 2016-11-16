@@ -7,6 +7,7 @@ Presented to Mrs. Bouffard's 3rd-grade and Mr. Kilmer's 5th-grade classes at
 - [HTML Color Names](https://en.wikipedia.org/wiki/Web_colors#HTML_color_names)
 - [List of Web Fonts](http://www.cssfontstack.com/)
 - [Giflicious](http://www.giflicious.com/)
+- [Final Result](http://codepen.io/wlc3/pen/ZBQdjp?editors=1000)
 
 ## Resources for Learning to Code
 | Resource | Notes |
